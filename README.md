@@ -17,6 +17,6 @@ Además, se utilizó JavaScript para la carga dinámica del **header** y **foote
 
 ## Registro Fotográfico
 
-![Página Principal]("fase 1/1.png")
+![Página Principal](["fase 1/1.png"](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/1.png))
 
 
