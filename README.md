@@ -15,4 +15,8 @@ En esta fase, se comenzó con la creación de un esquema básico utilizando el w
 
 Además, se utilizó JavaScript para la carga dinámica del **header** y **footer** entre las páginas, evitando la repetición de código.
 
+## Registro Fotográfico
+
+![Página Principal]("fase 1/1.png)
+
 
