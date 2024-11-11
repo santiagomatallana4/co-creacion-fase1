@@ -33,6 +33,17 @@ Además, se utilizó JavaScript para la carga dinámica del **header** y **foote
 
 ![Carga js](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/9.png)
 ![Carga js](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/10.png)
-![Carga js](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/11.png)
+![Carga js](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/11-include.png)
 **Cargar del header y footer con el uso de Javascript**
 
+![Flora](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/flora-html.png)
+![Flora](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/flora-js.png)
+**Creación página flora y funcionalidad con javascript**
+
+![Fauna](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/fauna-html.png)
+![Fauna](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/fauna-js.png)
+**Creación página fauna y funcionalidad con javascript**
+
+![ecosistemas](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/ecosistemas-html.png)
+![ecosistemas](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/mapa-js.png)
+**Creación página ecosistemas y funcionalidad con javascript**
