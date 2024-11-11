@@ -31,5 +31,8 @@ Además, se utilizó JavaScript para la carga dinámica del **header** y **foote
 ![Resultado](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/8.png)
 **Resultado visual de la maquetación**
 
-
+![Carga js](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/9.png)
+![Carga js](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/10.png)
+![Carga js](https://github.com/santiagomatallana4/co-creacion-fase1/blob/main/fase%201/11.png)
+**Cargar del header y footer con el uso de Javascript**
 
